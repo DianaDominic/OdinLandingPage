@@ -59,3 +59,17 @@ button{
     flex-direction: row;
     justify-content: space-between;
 }
+
+.section1-image-content{
+    width: 100px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.section1-images{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 20px;
+}
