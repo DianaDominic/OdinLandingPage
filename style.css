@@ -71,7 +71,7 @@ button{
     display: flex;
     flex-direction: column;
     padding-left: 25px;
-    
+    margin-bottom: 25px;
 }
 
 .section1-images{
