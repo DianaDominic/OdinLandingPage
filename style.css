@@ -107,3 +107,27 @@ div > img{
 .author{
     text-align: end;
 }
+
+.section3{
+    display: flex;
+    background-color: #3882f6;
+    padding: 40px 70px;
+    margin: 50px 100px;
+
+    border-radius: 5px;
+    color: white;
+    justify-content: space-between;
+}
+.section3-head{
+    font-weight: bold;
+}
+.section3-text{
+    font-weight: lighter;
+}
+.footer{
+    background-color: #1F2937;
+    color: #e5e7eb;
+    text-align: center;
+    padding: 20px 400px;
+    font-size: 10px;
+}
